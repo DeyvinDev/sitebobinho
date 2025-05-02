@@ -1,89 +1,89 @@
 const data = [
     {
-        question: "qual foi e exata primeira msg q eu mandei? ",
-        a: "wtf eu tive um dejavu q a gente namorava",
-        b: "te achei gostosa me mostra a xereca",
-        c: "cara eu tenho quase certeza que tua pfp deve ser o fetiche de alguém pqp q coisa bizarra kjkkkkk",
-        d: "te amo mommy :3",
-        ans: "op3"
+        question: "qual desses itens foi o primeira que você esqueceu, ja na maldade q eu sei ",
+        a: "calça de shopi",
+        b: "blusinha da burbery",
+        c: "blusa da escola",
+        d: "brinco de cocota",
+        ans: "op2"
     },
     {
-        question: "quando foi nosso primeiro encontro?",
-        a: "sabado, 11 de dezembro",
-        b: "sabado, 4 de dezembro",
-        c: "domingo, 5 de dezebro",
-        d: "domingo, 18 de dezembro",
+        question: "qual foi a comparação q vc fez com minha peça?",
+        a: "cano pvc",
+        b: "coca 3l ZERO",
+        c: "tromba de elefante",
+        d: "copo stanley",
         ans: "op2"
     }
     ,
     {
-        question: "qual foi a primeira foto q eu te mandei?",
-        a: "recibo do primeiro album do kamaitachi",
-        b: "foto que tu achava ser eu bebado",
-        c: "foto minha arrumado indo p escola",
-        d: "foto do pau gozando",
-        ans: "op1"
+        question: "quem desses a gente viu cantar juntos PRIMEIRO",
+        a: "djonga",
+        b: "major rd",
+        c: "hungria",
+        d: "mc ig",
+        ans: "op3"
     }
     ,
     {
         question: "qual minha comida favorita?",
-        a: "teu cuzinho",
-        b: "cebola",
-        c: "xorume",
-        d: "frango frito feito pela minha mãe",
+        a: "istrogonof com coca gelada",
+        b: "chocolate branco com oreo",
+        c: "churrascada",
+        d: "paozinho",
         ans: "op4"
     }
     ,
     {
-        question: "qual o catamara q eu peguei p te ver?",
-        a: "o das 12:50",
-        b: "o das 13:45",
-        c: "o das 13:25",
-        d: "o das 13:30",
+        question: "seguingo a logica da Karla com K complete (xxxxxxxx) ou ver minha muie interagindo com outro homem",
+        a: "comer caco de vidro",
+        b: "cair de moto pelado ",
+        c: "acido sulfurico",
+        d: "sentar num tronco com pregos",
         ans: "op3"
     }
     ,
     {
-        question: "nossa primeira foto juntos foi tirada q hrs?",
-        a: "14:22",
-        b: "13:48",
-        c: "14:54",
-        d: "14:31",
+        question: "na foto que vc tirou minha na academia me seguindo, qual era a cor da minha blusa e o texto acima do meu @",
+        a: "preta e (frango)",
+        b: "verde e (treino de bests)",
+        c: "cinza e (trina fofo)",
+        d: "verde e (franguinho)",
         ans: "op4"
     }
     ,
     {
-        question: "a torta que comemos no primeiro encontro era de:",
-        a: "maçã",
-        b: "uva",
-        c: "laranja",
-        d: "limão",
+        question: "qual o vulgo atual da sua",
+        a: "carne mijada",
+        b: "prikito",
+        c: "xebiu",
+        d: "paozinho",
         ans: "op1"
     },
     {
-        question: "qual camisa que eu tava inicialmente usando no primeiro encontro",
-        a: "camisa de fogo",
-        b: "camisa do bad luv",
-        c: "camisa Chat Online dell 2012",
-        d: "tava sem camisa qnd cheguei pq taba com calor",
+        question: "qual desses lugares vc n entro na chapa",
+        a: "sala",
+        b: "golzera",
+        c: "casa da sula",
+        d: "tabocas",
         ans: "op2"
     }
     ,
     {
-        question: "qual era o nome do papai noel q tiramos foto no 1 encontro?",
-        a: "thiago",
-        b: "jonhatan",
-        c: "pq caralhos eu saberia isso?",
-        d: "heitor",
+        question: "qual era o nome do seu parceiro na sanfona",
+        a: "joao",
+        b: "klebim",
+        c: "pq caralho vc ta lembrano nome de homem ein porra",
+        d: "pedrinho :)",
         ans: "op3"
     }
     ,
     {
         question: "pq eu te amo?",
-        a: "bundão",
-        b: "peitão",
-        c: "coxão",
-        d: "pq tu me completa e cada dia mais eu me sinto mais apaixonado por ti e acho que tu é a mulher perfeita com quem eu quero criar uma familia <3",
+        a: "rabona",
+        b: "pepetos",
+        c: "n amo",
+        d: "pq a vida com vc é  mais leve, em meio a esses caos que eu vivo, eu penso em vc como algo que vai muito além disso, um lugar pra eu voltar, um lugar que eu me sinto bem, e os peitão tb gostosa ",
         ans: "op4"
     }
 ];
